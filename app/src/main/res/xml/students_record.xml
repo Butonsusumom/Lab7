@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <record group_id="1" name="Бибик Арина Николаевна" grade="8.7" />
+    <record group_id="1" name="Бобровнич Мария Евгеньевна" grade="7.7" />
+    <record group_id="1" name="Гороховский Александр Сергеевич " grade="8.2" />
+    <record group_id="1" name="Довгулёв Владислав Александрович" grade="4.2" />
+    <record group_id="1" name="Дуж Денис Викторович" grade="5.7" />
+    <record group_id="1" name="Еловский Станислав Валерьевич" grade="6.2" />
+    <record group_id="1" name="Ильина Александра Юрьевна " grade="8.5" />
+    <record group_id="1" name="Карпинович Елизавета Павловна" grade="9.0" />
+    <record group_id="1" name="Кунцевич Максим Викторович " grade="8.0" />
+    <record group_id="1" name="Листратенко Игорь Владимирович" grade="7.3" />
+    <record group_id="1" name="Листратенко Игорь Владимирович" grade="8.7" />
+    <record group_id="1" name="Осипов Дмитрий Юрьевич" grade="5.7" />
+    <record group_id="1" name="Островский Ярослав Сергеевич" grade="4.0" />
+    <record group_id="2" name="Андилевко Андрей Александрович " grade="6.5" />
+    <record group_id="2" name="Буйко Виктория Владимировна" grade="7.7" />
+    <record group_id="2" name="Буршнев Владимир Валерьевич" grade="7.0" />
+    <record group_id="2" name="Денисевич Анастасия Константиновна" grade="5.2" />
+    <record group_id="2" name="Жукова Екатерина Александровна" grade="6.7" />
+    <record group_id="2" name="Кудрявцев Максим Геннадьевич" grade="7.0" />
+    <record group_id="2" name="Лебединский Павел Сергеевич" grade="8.4" />
+    <record group_id="2" name="Рубанов Захар Александрович" grade="9.5" />
+    <record group_id="2" name="Сацюк Анастасия Руслановна" grade="9.6" />
+    <record group_id="2" name="Сорокина Анна Валерьевна " grade="4.7" />
+    <record group_id="2" name="Трухан Кристина Анатольевна" grade="5.8" />
+    <record group_id="2" name="Цыбулько Ксения Дмитриевна" grade="7.9" />
+    <record group_id="2" name="Шпаковский Андрей Павлович" grade="8.6" />
+    <record group_id="3" name="Астапенко Анна Ильинична" grade="5.6" />
+    <record group_id="3" name="Билалов Святослав Игоревич" grade="6.0" />
+    <record group_id="3" name="Бутрим Артём Иванович" grade="6.1" />
+    <record group_id="3" name="Викторович Александра Игоревна" grade="7.1" />
+    <record group_id="3" name="Григорьян Олег Игоревич " grade="7.2" />
+    <record group_id="3" name="Жилко Антон Андреевич" grade="7.6" />
+    <record group_id="3" name="Занько Андрей Робертович " grade="7.3" />
+    <record group_id="3" name="Зыбайло Анна Александровна" grade="5.9" />
+    <record group_id="3" name="Касач Екатерина Сергеевна" grade="6.4" />
+    <record group_id="3" name="Кисель Александр Андреевич" grade="7.3" />
+    <record group_id="3" name="Комар Валерий Игоревич" grade="8.0" />
+    <record group_id="3" name="Лебедев Андрей Дмитриевич" grade="8.1" />
+    <record group_id="3" name="Лосев Сергей Александрович" grade="8.6" />
+    <record group_id="4" name="Антоник Артём Сергеевич" grade="8.4" />
+    <record group_id="4" name="Борисюк Фёдор Александрович" grade="9.0" />
+    <record group_id="4" name="Быковская Ирина Вадимовна" grade="9.7" />
+    <record group_id="4" name="Вутто Александра Юрьевна" grade="4.5" />
+    <record group_id="4" name="Гарр Анна Алексеевна" grade="5.6" />
+    <record group_id="4" name="Губко Полина Николаевна" grade="5.7" />
+    <record group_id="4" name="Дашкевич Никита Викторович" grade="6.8" />
+    <record group_id="4" name="Ефимов Альгерд Михайлович" grade="6.3" />
+    <record group_id="4" name="Каролинский Давид Аркадьевич" grade="6.5" />
+    <record group_id="4" name="Картовицкая Мария Сергеевна" grade="7.5" />
+    <record group_id="4" name="Корсунов Владислав Юрьевич" grade="7.4" />
+    <record group_id="4" name="Краснова Анастасия Викторовна" grade="8.4" />
+    <record group_id="4" name="Кучеренко Владимир Тимофеевич" grade="9.9" />
+</students>
